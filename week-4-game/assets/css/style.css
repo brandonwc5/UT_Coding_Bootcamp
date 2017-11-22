@@ -1,0 +1,21 @@
+body{
+	background-image: url("../images/dead.jpg");
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin: 0 auto;
+}
+img{
+	float: left;
+	border-style: inset;
+}
+.top{
+	margin-top: 50px;
+}
+.col-sm-2 {
+    margin-left: 14px;
+}
+button{
+	float: left;
+	margin: auto;
+}
